@@ -1,0 +1,14 @@
+Database notes
+A database is a centralized and structured set of data stored on a computer system
+five components of a DBMS
+Hardware: The hardware consists of physical, electronic devices like computers, I/O devices, storage devices, etc.
+Software: This is a set of programs used to manage and control the overall database.
+Data: Data is a raw and unorganized fact that is required to be processed to make it meaningful.
+Procedure: Procedure are a set of instructions and rules that help you to use the DBMS.
+﻿Database Access Language: Database Access language is used to access the data to and from the database, enter new data, update already existing data, or retrieve required data from DBMS.
+
+
+Keys: a primary key (PK) is the unique identifier for each row
+of data; a foreign key (FK) links data in one table to the data in
+a second table by referring to the PK column in the second
+table
